@@ -1,0 +1,320 @@
+.taskbar-div5 {
+  position: absolute;
+  top: -14px;
+  left: -6px;
+  background-color: var(--color-white);
+  width: 1553px;
+  height: 84px;
+}
+.accname-div6 {
+  position: absolute;
+  top: 12px;
+  left: 52px;
+  display: inline-block;
+  width: 73px;
+  height: 27px;
+}
+.accprofile-icon6,
+.arrow-down-icon5 {
+  position: absolute;
+  top: 18px;
+  left: 104px;
+  width: 12px;
+  height: 13px;
+  object-fit: cover;
+}
+.accprofile-icon6 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xl);
+  width: 42px;
+  height: 42px;
+}
+.login-acc-icon6 {
+  position: absolute;
+  top: 14px;
+  left: 1391px;
+  width: 125px;
+  height: 42px;
+  font-family: var(--font-roboto-slab);
+}
+.quest-div6 {
+  position: absolute;
+  top: 11px;
+  left: 48px;
+  display: inline-block;
+  width: 73px;
+  height: 27px;
+}
+.quest-icon6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 41px;
+  height: 41px;
+  object-fit: cover;
+}
+.quest-icon-div6 {
+  position: absolute;
+  top: 17px;
+  left: 1272px;
+  width: 121px;
+  height: 41px;
+  font-family: var(--font-roboto-slab);
+}
+.logo-icon14 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 94.02px;
+  height: 70.71px;
+  object-fit: cover;
+}
+.tourit-b6 {
+  position: absolute;
+  top: 19px;
+  left: 74px;
+  display: inline-block;
+  width: 153.85px;
+  height: 20.98px;
+}
+.logo-div6 {
+  position: absolute;
+  top: -1px;
+  left: 10px;
+  width: 227.85px;
+  height: 70.71px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-roboto-slab);
+}
+.searchbar-div6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-400);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 706px;
+  height: 42px;
+}
+.searchicon6 {
+  position: absolute;
+  top: 6px;
+  left: 665px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.search-div5 {
+  position: absolute;
+  top: 14px;
+  left: 269px;
+  width: 706px;
+  height: 42px;
+}
+.btn-icon1,
+.vector-icon {
+  position: absolute;
+  top: 699px;
+  left: 0;
+  width: 1621px;
+  height: 143px;
+}
+.btn-icon1 {
+  top: 0;
+  left: -4px;
+  border-radius: var(--br-lg);
+  width: 307.18px;
+  height: 70.87px;
+}
+.continue-b1 {
+  position: absolute;
+  top: 21.25px;
+  left: 108.28px;
+  display: inline-block;
+  width: 484.72px;
+  height: 72.75px;
+}
+.continue-btn-div,
+.go-back6 {
+  position: absolute;
+  top: 594px;
+  left: 625px;
+  width: 593px;
+  height: 94px;
+  font-size: var(--font-size-2xl);
+}
+.go-back6 {
+  top: 615px;
+  left: 962px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 404px;
+  height: 52px;
+}
+.image-95-icon {
+  position: absolute;
+  top: 70px;
+  left: 0;
+  width: 628px;
+  height: 636px;
+  object-fit: cover;
+}
+.add-a-thing-to-do {
+  position: absolute;
+  top: 113px;
+  left: 591px;
+  font-size: var(--font-size-10xl);
+  display: inline-block;
+  color: var(--color-indigo);
+  width: 878px;
+  height: 87px;
+}
+.how-should-we {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.how-should-we-categorise-it,
+.what-hours-is-this-place-open1 {
+  position: absolute;
+  top: 235px;
+  left: 592px;
+  font-size: var(--font-size-6xl);
+  display: inline-block;
+  width: 623px;
+  height: 135px;
+}
+.what-hours-is-this-place-open1 {
+  top: 364px;
+  left: 591px;
+  height: 103px;
+}
+.categoryinputbox-icon1,
+.timeinputbox-icon1 {
+  position: absolute;
+  top: 409px;
+  left: 591px;
+  border-radius: var(--br-3xs);
+  width: 511.89px;
+  height: 43.17px;
+  opacity: 0.4;
+}
+.categoryinputbox-icon1 {
+  top: 281px;
+  left: 592px;
+}
+.ex-1000-am-600-pm1,
+.ex-arenas-amusement-park-ec {
+  position: absolute;
+  top: 468px;
+  left: 599px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-josefin-sans);
+  color: var(--color-gray-500);
+  display: inline-block;
+  width: 347px;
+  height: 22px;
+}
+.ex-arenas-amusement-park-ec {
+  top: 334px;
+  left: 594px;
+}
+.overlay-div3,
+.rectangle-div1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-600);
+  width: 1547px;
+  height: 822px;
+}
+.rectangle-div1 {
+  top: 167px;
+  left: 529px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  width: 623px;
+  height: 379px;
+}
+.to-ensure-travellers1 {
+  margin-block-start: 0;
+  margin-block-end: 50px;
+}
+.to-ensure-travellers-benefit-f1 {
+  position: absolute;
+  top: 352px;
+  left: 578px;
+  font-size: var(--font-size-lg);
+  line-height: 17px;
+  display: inline-block;
+  width: 542px;
+  height: 54px;
+}
+.shop-name1 {
+  margin: 0;
+}
+.shop-name-b2 {
+  white-space: pre-wrap;
+}
+.shop-name-b2,
+.yey-thanks-for-telling-us-abo1 {
+  position: absolute;
+  top: 227px;
+  left: 699px;
+  display: inline-block;
+  width: 722px;
+  height: 103px;
+}
+.btn-icon2 {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  border-radius: var(--br-lg);
+  width: 251.67px;
+  height: 52.07px;
+}
+.return-to-dashboard2 {
+  position: absolute;
+  top: 11px;
+  left: 40px;
+  display: inline-block;
+  width: 394.78px;
+  height: 51px;
+}
+.returnbtn-div1 {
+  position: absolute;
+  top: 452px;
+  left: 727px;
+  width: 434.78px;
+  height: 62px;
+  cursor: pointer;
+  font-size: var(--font-size-2xl);
+}
+.logo-icon15 {
+  position: absolute;
+  top: 198px;
+  left: 560px;
+  width: 144px;
+  height: 144px;
+  object-fit: cover;
+}
+.confirmation-msg-div2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1547px;
+  height: 822px;
+  font-size: var(--font-size-7xl);
+}
+.list-a-thing-to-do-3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 713px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-gupter);
+}

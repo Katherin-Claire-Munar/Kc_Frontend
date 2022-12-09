@@ -1,0 +1,323 @@
+.taskbar-div8 {
+  position: absolute;
+  top: -14px;
+  left: -6px;
+  background-color: var(--color-white);
+  width: 1553px;
+  height: 84px;
+}
+.accname-div9 {
+  position: absolute;
+  top: 12px;
+  left: 52px;
+  display: inline-block;
+  width: 73px;
+  height: 27px;
+}
+.accprofile-icon9,
+.arrow-down-icon8 {
+  position: absolute;
+  top: 18px;
+  left: 104px;
+  width: 12px;
+  height: 13px;
+  object-fit: cover;
+}
+.accprofile-icon9 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xl);
+  width: 42px;
+  height: 42px;
+}
+.login-acc-icon9 {
+  position: absolute;
+  top: 14px;
+  left: 1391px;
+  width: 125px;
+  height: 42px;
+  font-family: var(--font-roboto-slab);
+}
+.quest-div9 {
+  position: absolute;
+  top: 11px;
+  left: 48px;
+  display: inline-block;
+  width: 73px;
+  height: 27px;
+}
+.quest-icon9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 41px;
+  height: 41px;
+  object-fit: cover;
+}
+.quest-icon-div9 {
+  position: absolute;
+  top: 17px;
+  left: 1275px;
+  width: 121px;
+  height: 41px;
+  font-family: var(--font-roboto-slab);
+}
+.logo-icon18 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 94.02px;
+  height: 70.71px;
+  object-fit: cover;
+}
+.tourit-b9 {
+  position: absolute;
+  top: 19px;
+  left: 74px;
+  display: inline-block;
+  width: 153.85px;
+  height: 20.98px;
+}
+.logo-div9 {
+  position: absolute;
+  top: -1px;
+  left: 10px;
+  width: 227.85px;
+  height: 70.71px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-roboto-slab);
+}
+.searchbar-div9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-400);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 706px;
+  height: 42px;
+}
+.searchicon9 {
+  position: absolute;
+  top: 6px;
+  left: 665px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.search-div8 {
+  position: absolute;
+  top: 14px;
+  left: 269px;
+  width: 706px;
+  height: 42px;
+}
+.btn-icon4,
+.footer-icon3 {
+  position: absolute;
+  top: 808px;
+  left: 0;
+  width: 1621px;
+  height: 143px;
+}
+.btn-icon4 {
+  top: 0;
+  left: -4px;
+  border-radius: var(--br-lg);
+  width: 307.18px;
+  height: 70.87px;
+}
+.continue-b4 {
+  position: absolute;
+  top: 21.25px;
+  left: 108.28px;
+  display: inline-block;
+  width: 484.72px;
+  height: 72.75px;
+}
+.continuebtn-div2,
+.go-back9 {
+  position: absolute;
+  top: 697px;
+  left: 721px;
+  width: 593px;
+  height: 94px;
+  font-size: var(--font-size-2xl);
+}
+.go-back9 {
+  top: 718px;
+  left: 1058px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 404px;
+  height: 52px;
+}
+.image-81-icon {
+  position: absolute;
+  top: 64px;
+  left: 39px;
+  width: 507px;
+  height: 626px;
+  object-fit: cover;
+}
+.add-an-accommodation {
+  position: absolute;
+  top: 127px;
+  left: 633px;
+  font-size: var(--font-size-10xl);
+  display: inline-block;
+  color: var(--color-indigo);
+  width: 878px;
+  height: 87px;
+}
+.what-is-the-category-that-best1 {
+  position: absolute;
+  top: 253px;
+  left: 633px;
+  font-size: var(--font-size-6xl);
+  display: inline-block;
+  width: 623px;
+  height: 103px;
+}
+.what-is-your {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.what-is-your-check-in-and-chec {
+  position: absolute;
+  top: 442px;
+  left: 634px;
+  font-size: var(--font-size-6xl);
+  display: inline-block;
+  width: 623px;
+  height: 103px;
+}
+.categoryinputbox-icon3,
+.timeinputbox-icon3 {
+  position: absolute;
+  top: 486px;
+  left: 633px;
+  border-radius: var(--br-3xs);
+  width: 511.89px;
+  height: 43.17px;
+  opacity: 0.4;
+}
+.categoryinputbox-icon3 {
+  top: 305px;
+  left: 634px;
+}
+.ex-1000-am-600-pm3,
+.ex-hotel-motel-resort-inn {
+  position: absolute;
+  top: 546px;
+  left: 643px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-josefin-sans);
+  color: var(--color-gray-500);
+  display: inline-block;
+  width: 347px;
+  height: 22px;
+}
+.ex-hotel-motel-resort-inn {
+  top: 362px;
+}
+.overlay-div4,
+.rectangle-div2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-600);
+  width: 1547px;
+  height: 822px;
+}
+.rectangle-div2 {
+  top: 167px;
+  left: 529px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  width: 623px;
+  height: 379px;
+}
+.to-ensure-travellers2 {
+  margin-block-start: 0;
+  margin-block-end: 50px;
+}
+.to-ensure-travellers-benefit-f2 {
+  position: absolute;
+  top: 352px;
+  left: 578px;
+  font-size: var(--font-size-lg);
+  line-height: 17px;
+  display: inline-block;
+  width: 542px;
+  height: 54px;
+}
+.shop-name3 {
+  margin: 0;
+  left: 1500px;
+}
+.shop-name-b3 {
+  white-space: pre-wrap;
+}
+.shop-name-b3,
+.yey-thanks-for-telling-us-abo2 {
+  position: absolute;
+  top: 227px;
+  left: 699px;
+  display: inline-block;
+  width: 722px;
+  height: 103px;
+}
+.btn-icon5 {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  border-radius: var(--br-lg);
+  width: 251.67px;
+  height: 52.07px;
+}
+.return-to-dashboard3 {
+  position: absolute;
+  top: 11px;
+  left: 40px;
+  display: inline-block;
+  width: 394.78px;
+  height: 51px;
+}
+.returnbtn-div2 {
+  position: absolute;
+  top: 452px;
+  left: 727px;
+  width: 434.78px;
+  height: 62px;
+  cursor: pointer;
+  font-size: var(--font-size-2xl);
+}
+.logo-icon19 {
+  position: absolute;
+  top: 198px;
+  left: 560px;
+  width: 144px;
+  height: 144px;
+  object-fit: cover;
+}
+.confirmation-msg-div3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1547px;
+  height: 822px;
+  font-size: var(--font-size-7xl);
+}
+.list-an-accommodation-3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 822px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-gupter);
+}

@@ -1,0 +1,234 @@
+.taskbar-div7 {
+  position: absolute;
+  top: -14px;
+  left: -6px;
+  background-color: var(--color-white);
+  width: 1553px;
+  height: 84px;
+}
+.accname-div8 {
+  position: absolute;
+  top: 12px;
+  left: 52px;
+  display: inline-block;
+  width: 73px;
+  height: 27px;
+}
+.accprofile-icon8,
+.arrow-down-icon7 {
+  position: absolute;
+  top: 18px;
+  left: 104px;
+  width: 12px;
+  height: 13px;
+  object-fit: cover;
+}
+.accprofile-icon8 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xl);
+  width: 42px;
+  height: 42px;
+}
+.login-acc-icon8 {
+  position: absolute;
+  top: 14px;
+  left: 1391px;
+  width: 125px;
+  height: 42px;
+  font-family: var(--font-roboto-slab);
+}
+.quest-div8 {
+  position: absolute;
+  top: 11px;
+  left: 48px;
+  display: inline-block;
+  width: 73px;
+  height: 27px;
+}
+.quest-icon8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 41px;
+  height: 41px;
+  object-fit: cover;
+}
+.quest-icon-div8 {
+  position: absolute;
+  top: 17px;
+  left: 1272px;
+  width: 121px;
+  height: 41px;
+  font-family: var(--font-roboto-slab);
+}
+.logo-icon17 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 94.02px;
+  height: 70.71px;
+  object-fit: cover;
+}
+.tourit-b8 {
+  position: absolute;
+  top: 19px;
+  left: 74px;
+  display: inline-block;
+  width: 153.85px;
+  height: 20.98px;
+}
+.logo-div8 {
+  position: absolute;
+  top: -1px;
+  left: 10px;
+  width: 227.85px;
+  height: 70.71px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-roboto-slab);
+}
+.searchbar-div8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-400);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 706px;
+  height: 42px;
+}
+.searchicon8 {
+  position: absolute;
+  top: 6px;
+  left: 665px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.search-div7 {
+  position: absolute;
+  top: 11px;
+  left: 269px;
+  width: 706px;
+  height: 42px;
+}
+.btn-icon3,
+.footer-icon2 {
+  position: absolute;
+  top: 699px;
+  left: 0;
+  width: 1621px;
+  height: 143px;
+}
+.btn-icon3 {
+  top: 0;
+  left: -4px;
+  border-radius: var(--br-lg);
+  width: 307.18px;
+  height: 70.87px;
+}
+.continue-b3 {
+  position: absolute;
+  top: 21.25px;
+  left: 108.28px;
+  display: inline-block;
+  width: 484.72px;
+  height: 72.75px;
+}
+.continue-btn-div1,
+.go-back8 {
+  position: absolute;
+  top: 594px;
+  left: 625px;
+  width: 593px;
+  height: 94px;
+  cursor: pointer;
+  font-size: var(--font-size-2xl);
+}
+.go-back8 {
+  top: 615px;
+  left: 962px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 404px;
+  height: 52px;
+}
+.image-95-icon1 {
+  position: absolute;
+  top: 70px;
+  left: 0;
+  width: 628px;
+  height: 636px;
+  object-fit: cover;
+}
+.add-a-thing-to-do2 {
+  position: absolute;
+  top: 113px;
+  left: 591px;
+  font-size: var(--font-size-10xl);
+  display: inline-block;
+  color: var(--color-indigo);
+  width: 878px;
+  height: 87px;
+}
+.how-should-we1 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.how-should-we-categorise-it1,
+.what-hours-is-this-place-open2 {
+  position: absolute;
+  top: 235px;
+  left: 592px;
+  font-size: var(--font-size-6xl);
+  display: inline-block;
+  width: 623px;
+  height: 135px;
+}
+.what-hours-is-this-place-open2 {
+  top: 364px;
+  left: 591px;
+  height: 103px;
+}
+.categoryinputbox-icon2,
+.timeinputbox-icon2 {
+  position: absolute;
+  top: 409px;
+  left: 591px;
+  border-radius: var(--br-3xs);
+  width: 511.89px;
+  height: 43.17px;
+  opacity: 0.4;
+}
+.categoryinputbox-icon2 {
+  top: 281px;
+  left: 592px;
+}
+.ex-1000-am-600-pm2,
+.ex-arenas-amusement-park-ec1 {
+  position: absolute;
+  top: 461px;
+  left: 596px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-josefin-sans);
+  color: var(--color-gray-500);
+  display: inline-block;
+  width: 347px;
+  height: 22px;
+}
+.ex-arenas-amusement-park-ec1 {
+  top: 331px;
+  left: 601px;
+}
+.list-a-thing-to-do-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 713px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-gupter);
+}

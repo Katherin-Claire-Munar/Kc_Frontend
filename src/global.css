@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gupter:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Habibi:wght@400&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-gupter: Gupter;
+  --font-josefin-sans: "Josefin Sans";
+  --font-roboto-slab: "Roboto Slab";
+  --font-habibi: Habibi;
+
+  /* font sizes */
+  --font-size-sm: 13px;
+  --font-size-base: 15px;
+  --font-size-lg: 17px;
+  --font-size-xl: 18px;
+  --font-size-2xl: 20px;
+  --font-size-3xl: 22px;
+  --font-size-4xl: 23px;
+  --font-size-5xl: 25px;
+  --font-size-6xl: 30px;
+  --font-size-7xl: 38px;
+  --font-size-8xl: 40px;
+  --font-size-9xl: 65px;
+  --font-size-10xl: 75px;
+  --font-size-11xl: 82px;
+  --font-size-12xl: 85px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray-100: #eadcf2;
+  --color-gray-200: #4d4646;
+  --color-gray-300: rgba(255, 255, 255, 0.9);
+  --color-gray-400: rgba(217, 217, 217, 0);
+  --color-gray-500: rgba(0, 0, 0, 0.4);
+  --color-gray-600: rgba(217, 217, 217, 0.5);
+  --color-indigo: #5d0092;
+  --color-red-100: #ff0000;
+
+  /* border radiuses */
+  --br-3xs: 5px;
+  --br-2xs: 8px;
+  --br-xs: 10px;
+  --br-sm: 15px;
+  --br-md: 35px;
+  --br-lg: 37px;
+  --br-xl: 45px;
+  --br-2xl: 200px;
+  --br-3xl: 315.5px;
+}

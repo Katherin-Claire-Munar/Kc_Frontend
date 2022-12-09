@@ -1,0 +1,233 @@
+.taskbar-div11 {
+  position: absolute;
+  top: -14px;
+  left: -6px;
+  background-color: var(--color-white);
+  width: 1553px;
+  height: 84px;
+}
+.accname-div12 {
+  position: absolute;
+  top: 12px;
+  left: 52px;
+  display: inline-block;
+  width: 73px;
+  height: 27px;
+}
+.accprofile-icon12,
+.arrow-down-icon11 {
+  position: absolute;
+  top: 18px;
+  left: 104px;
+  width: 12px;
+  height: 13px;
+  object-fit: cover;
+}
+.accprofile-icon12 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xl);
+  width: 42px;
+  height: 42px;
+}
+.login-acc-icon12 {
+  position: absolute;
+  top: 14px;
+  left: 1391px;
+  width: 125px;
+  height: 42px;
+  font-family: var(--font-roboto-slab);
+}
+.quest-div12 {
+  position: absolute;
+  top: 11px;
+  left: 48px;
+  display: inline-block;
+  width: 73px;
+  height: 27px;
+}
+.quest-icon12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 41px;
+  height: 41px;
+  object-fit: cover;
+}
+.quest-icon-div12 {
+  position: absolute;
+  top: 17px;
+  left: 1260px;
+  width: 121px;
+  height: 41px;
+  font-family: var(--font-roboto-slab);
+}
+.logo-icon22 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 94.02px;
+  height: 70.71px;
+  object-fit: cover;
+}
+.tourit-b12 {
+  position: absolute;
+  top: 19px;
+  left: 74px;
+  display: inline-block;
+  width: 153.85px;
+  height: 20.98px;
+}
+.logo-div12 {
+  position: absolute;
+  top: -1px;
+  left: 10px;
+  width: 227.85px;
+  height: 70.71px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-roboto-slab);
+}
+.searchbar-div12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-400);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 706px;
+  height: 42px;
+}
+.searchicon12 {
+  position: absolute;
+  top: 6px;
+  left: 665px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.search-div11 {
+  position: absolute;
+  top: 14px;
+  left: 269px;
+  width: 706px;
+  height: 42px;
+}
+.footer-icon6,
+.image-77-icon1 {
+  position: absolute;
+  top: 697px;
+  left: 0;
+  width: 1621px;
+  height: 143px;
+}
+.image-77-icon1 {
+  top: 86px;
+  left: 37px;
+  width: 465px;
+  height: 581px;
+  object-fit: cover;
+}
+.add-a-resturant1 {
+  position: absolute;
+  top: 121px;
+  left: 722px;
+  font-size: var(--font-size-12xl);
+  display: inline-block;
+  color: var(--color-indigo);
+  width: 878px;
+  height: 87px;
+}
+.what-is-the3 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.what-hours-is-this-place-open3,
+.what-is-the-category-that-best3 {
+  position: absolute;
+  top: 243px;
+  left: 590px;
+  font-size: var(--font-size-6xl);
+  display: inline-block;
+  width: 623px;
+  height: 103px;
+}
+.what-hours-is-this-place-open3 {
+  top: 407px;
+  left: 591px;
+}
+.categoryinputbox-icon5,
+.timeinputbox-icon5 {
+  position: absolute;
+  top: 451px;
+  left: 590px;
+  border-radius: var(--br-3xs);
+  width: 511.89px;
+  height: 43.17px;
+  opacity: 0.4;
+}
+.categoryinputbox-icon5 {
+  top: 291px;
+  left: 591px;
+}
+.ex-1000-am-600-pm5,
+.ex-restaurant-bar-bakeries1 {
+  position: absolute;
+  top: 503px;
+  left: 597px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-josefin-sans);
+  color: var(--color-gray-500);
+  display: inline-block;
+  width: 347px;
+  height: 22px;
+}
+.ex-restaurant-bar-bakeries1 {
+  top: 348px;
+  left: 591px;
+}
+.rectangle-icon11 {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  border-radius: var(--br-lg);
+  width: 307.18px;
+  height: 70.87px;
+}
+.continue-b7 {
+  position: absolute;
+  top: 21.25px;
+  left: 108.28px;
+  display: inline-block;
+  width: 484.72px;
+  height: 72.75px;
+}
+.continuebtn-div3,
+.go-back12 {
+  position: absolute;
+  top: 611px;
+  left: 675px;
+  width: 593px;
+  height: 94px;
+  cursor: pointer;
+  font-size: var(--font-size-2xl);
+}
+.go-back12 {
+  top: 632px;
+  left: 1012px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 404px;
+  height: 52px;
+}
+.list-a-resturant-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 713px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-gupter);
+}
